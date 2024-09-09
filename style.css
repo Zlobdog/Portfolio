@@ -465,9 +465,6 @@ body{
   width: 100%;
   max-width: 524px;
 }
-.contant-img{
-
-}
 .projects{
   display: flex;
   flex-direction: column;
