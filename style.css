@@ -563,7 +563,7 @@ body{
   max-width: 150px;
 }
 .button-card:hover{
-  background-color: var(--color-dark-line);
+  background-color:  #646b72;;
   color: var(--color-light);
 }
 .button-card{
